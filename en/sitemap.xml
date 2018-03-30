@@ -3,12 +3,28 @@
 
   
   <url>
+    <loc>https://lxms.github.io/capitanoVerde//#start</loc>
+    <lastmod>2018-03-30T19:02:26+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lxms.github.io/capitanoVerde//#whatelse</loc>
+    <lastmod>2018-03-30T19:02:26+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lxms.github.io/capitanoVerde//#end</loc>
+    <lastmod>2018-03-30T19:02:26+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lxms.github.io/capitanoVerde//#</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lxms.github.io/capitanoVerde//#</loc>
+    <lastmod>2018-03-30T19:02:26+02:00</lastmod>
     <priority>0</priority>
   </url>
   
