@@ -1,8 +1,8 @@
 ---
 title: "Ende"
 date: 2018-03-30T19:02:26+02:00
-draft: true
-weight:3
+draft: false
+weight: 300
 ---
 
 # so ist das Ende

@@ -5,6 +5,8 @@ languageCode = "en-us"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
 disableKinds=["RSS"]
+RelativeURLs=true
+CanonifyURLs=true
 
 [params]
   description = 'make it green'
