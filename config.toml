@@ -1,4 +1,4 @@
-baseurl = "http://example.org"
+baseurl = "https://lxms.github.io/capitanoVerde/"
 title = "Greeny"
 # theme = "dimension"
 languageCode = "en-us"
